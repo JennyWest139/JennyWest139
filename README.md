@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Jennifer 👋
 
-<!--
-**JennyWest139/JennyWest139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a background in actuarial science and insurance, with a strong focus on data, mathematics, and structured problem-solving. Over the years, I’ve worked across the full lifecycle of projects — from initial client requests and proof of concepts to offers, estimates, implementation, updates, upgrades, reviews, and optimizations.
 
-Here are some ideas to get you started:
+I enjoy turning complex requirements into clear, robust, and maintainable solutions. My work often sits at the intersection of business, technology, and compliance, where clarity and reliability really matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m deepening my skills in software engineering with a strong focus on Python, automation, and clean code. I love solving problems, improving processes, and making systems easier to understand and work with.
+
+What I care about most:
+- End-to-end problem solving, from idea to implementation  
+- Python, automation, and data processing  
+- Insurance mathematics & actuarial concepts  
+- Reviews, optimizations, and sustainable improvements  
+
+I especially enjoy providing training, sharing knowledge, and working in productive, collaborative teams — these are truly my favorites.
+
+Always curious. Always learning.

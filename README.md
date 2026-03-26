@@ -81,7 +81,7 @@ I especially enjoy **providing training, sharing knowledge, and working in produ
 - Model optimization
 - Data processing & transformation
 - C++
-- html / CSS
+- HTML / CSS
 - VBA
 - Strong Microsoft background and history (Windows, Office, ...)
 
@@ -102,4 +102,4 @@ I especially enjoy **providing training, sharing knowledge, and working in produ
 
 ## 🔹 Languages
 - German (mother language)
-- English (high proficiency, clear and internationally comprehensible)
+- English (high proficiency, clear and internationally comprehensible, contract‑ready)
